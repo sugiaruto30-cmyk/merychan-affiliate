@@ -1,0 +1,13 @@
+{
+  "name": "Merychan Endorse Tracker",
+  "short_name": "Merychan",
+  "description": "Kelola endorse, deadline konten, dan pembayaran kreator.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f7fb",
+  "theme_color": "#7653d6",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
